@@ -1,3 +1,5 @@
+# 👨‍💻 Pandu Kaya Hakiki
+
 <div align="center">
 
 <picture>
@@ -34,7 +36,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:pandukayahakiki@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=10B981&amp;labelColor=0A101F" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=10B981&amp;labelColor=0A101F" alt="Email" />
 </a>
 
 </div>
