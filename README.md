@@ -1,5 +1,3 @@
-# 👨‍💻 Pandu Kaya Hakiki
-
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Pandu98-pkh/Pandu98-pkh/main/dark.svg" alt="Pandu Kaya Hakiki Profile Banner" />
   <br /><br />
