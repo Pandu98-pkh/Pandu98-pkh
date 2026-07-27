@@ -1,8 +1,8 @@
 <!-- Animated Theme-Aware Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Pandu Kaya Hakiki Profile Banner" src="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pandu98-pkh/Pandu98-pkh/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pandu98-pkh/Pandu98-pkh/main/light.svg">
+  <img alt="Pandu Kaya Hakiki Profile Banner" src="https://raw.githubusercontent.com/Pandu98-pkh/Pandu98-pkh/main/light.svg">
 </picture>
 
 <br/>
